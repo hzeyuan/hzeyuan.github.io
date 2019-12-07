@@ -62,7 +62,7 @@ kramdown:
 disqus_username: hzeyuan-cn
 
 # Netease settings
-#netease_comment: false
+netease_comment: true
 
 
 
