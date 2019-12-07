@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 599012428@qq.com
 description: "一二三四五,打码如老虎"
 keyword: "Hzy, hzy, @Hzy, Hzy的博客, Hzy Blog, 博客, 个人网站, 互联网, Go, JavaScript, 前端, Python,Vue"
-url: "http://hzeyuan.cn"              # your host, for absolute URL
+url: "https://hzeyuan.cn"              # your host, for absolute URL
 baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -85,7 +85,7 @@ sidebar-avatar: /img/goutou.jpeg      # use absolute URL, seeing it's used in bo
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 10              # A tag will be featured if the size of it is more than this condition value
 
 
 
