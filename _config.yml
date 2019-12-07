@@ -6,17 +6,17 @@ email: 599012428@qq.com
 description: "一二三四五,打码如老虎"
 keyword: "Hzy, hzy, @Hzy, Hzy的博客, Hzy Blog, 博客, 个人网站, 互联网, Go, JavaScript, 前端, Python,Vue"
 url: "https://hzeyuan.cn"              # your host, for absolute URL
-baseurl: "https://hzeyuan.cn"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hzy
-zhihu_username:     hzy
-github_username:    hzy
-twitter_username:   hzy
+#weibo_username:     hzy
+#zhihu_username:     hzeyuan
+github_username:    hzeyuan
+#:twitter_username:   hzy
 #facebook_username:  hzy
 #linkedin_username:  firstname-lastname-idxxxx
 
