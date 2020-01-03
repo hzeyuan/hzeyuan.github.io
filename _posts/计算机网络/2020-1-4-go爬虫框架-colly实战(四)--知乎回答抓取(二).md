@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "go爬虫框架-colly实战(四)--知乎回答爬取(二)"
+title: "go爬虫框架-colly实战(四)--知乎回答爬取(二)--可视化词云"
 subtitle: 'go爬虫框架-colly实战(四)--知乎回答爬取(二)--可视化词云'
 author: "Hzy"
 header-style: text
