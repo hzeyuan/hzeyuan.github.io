@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "pythonchallenge-0~4关讲解"
-subtitle: 'pythonchallenge-0~4关讲解'
+title: "[pythonchallenge]-- 0~4关讲解"
+subtitle: '[pythonchallenge]-- 0~4关讲解'
 author: "Hzy"
 header-style: text
 tags:
