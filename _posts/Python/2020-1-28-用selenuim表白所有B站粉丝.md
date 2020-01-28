@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Python100行系列]-用selenium表白所有的B站粉丝"
-subtitle: '[Python100行系列]-井字棋游戏'
+subtitle: '[Python100行系列]-用selenium表白所有的B站粉丝'
 author: "Hzy"
 header-style: text
 tags:
