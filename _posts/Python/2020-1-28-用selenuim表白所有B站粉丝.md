@@ -11,8 +11,8 @@ tags:
 > 反正最近在学selenium，B站也在尝试做视频，那就试试用selenuim来B站做点有趣的视频呗，说干就干！
 
 
- [Hzy的博客](https://hezeyaun.cn)
->[完整代码](https://github.com/hzeyuan/100-Python/blob/master)
+ [Hzy的博客](https://hzeyuan.cn)
+>[完整代码](https://github.com/hzeyuan/100-Python)
 
 
 

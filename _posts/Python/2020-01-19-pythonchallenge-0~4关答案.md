@@ -13,7 +13,7 @@ tags:
 
 
 
- [Hzy的博客](https://hezeyaun.cn)
+ [Hzy的博客](https://hzeyuan.cn)
 
 > 今天说说前面5关，都遇到了什么。
 

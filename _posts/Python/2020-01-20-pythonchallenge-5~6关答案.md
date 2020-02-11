@@ -11,7 +11,7 @@ tags:
 
 > 上一篇文章:[[pythonchallenge]-- 0~4关讲解](https://zhuanlan.zhihu.com/p/103515832)
 
- [Hzy的博客](https://hezeyaun.cn)
+ [Hzy的博客](https://hzeyuan.cn)
 
 
  ### 第5关
